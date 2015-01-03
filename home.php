@@ -9,7 +9,7 @@
     <meta name="author" content="">
     
 
-    <title>Of A Kind</title>
+    <title>Of A Kind - Exclusive Art Monthly</title>
 
     <!-- Bootstrap core CSS -->
         <link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
